@@ -228,4 +228,7 @@ progress::-webkit-progress-value {
         height: 800px;
         align-items: center;
     }
+    .nav-arrow-container {
+        display: none;
+    }
 }
